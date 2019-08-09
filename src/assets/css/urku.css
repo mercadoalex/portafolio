@@ -1166,7 +1166,7 @@ body {
 }
 
 .item-1 {
-  background-image: url("../img/project-1.jpg");
+  /*background-image: url("../img/project-1.jpg");*/
 }
 @media (min-width: 40em) {
   #layout-grid:checked ~ .rk-portfolio .item-1 {
@@ -1175,7 +1175,7 @@ body {
 }
 
 .item-2 {
-  background-image: url("../img/project-2.jpg");
+  /*background-image: url("../img/project-2.jpg");*/
 }
 
 .item-3 {
